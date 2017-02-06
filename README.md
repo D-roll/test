@@ -1,5 +1,4 @@
-//# test                                      // 源文件路径 E:\\Java\demo\demo\Test.java
-package demo; 								  
+package demo; 	// Path: E:\\Java\demo\demo\Test.java							  
 
 import java.util.*;
 import javax.swing.*;
