@@ -11,6 +11,7 @@ import java.awt.event.*;
 th, height, color ./
 
 public class Test {
+	String a = "这是一个测试用的!"
 	boolean isDraw, isBack, isClear;		   			
 	JFrame frame; 		   
 	ArrayList<Integer> xList = new ArrayList<Integer>();
